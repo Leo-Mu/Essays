@@ -2,8 +2,8 @@
 # 论分叉带来的价值变化
 
 > -------------© 版权信息------------
-> 本文首发于 Steemit ，在 Steemit 上的版本保留所有权利。
-> 欲转载等，请使用 https://qbug.cf/ 上的版本，遵守那里的版权标识。
+> [本文首发于 Steemit](https://steemit.com/cn/@quantum-bug/on-the-value-change-of-fork) ，在 Steemit 上的版本保留所有权利。
+> 欲转载等，请使用 https://qbug.cf/2017/10/29/on-the-value-change-of-fork/ 上的版本，遵守那里的版权标识。
 > --------本文不构成投资建议---------
 
 ## 引言
