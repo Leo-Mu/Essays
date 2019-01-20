@@ -1,0 +1,3 @@
+I have a keen interest and independent study in IT and science, specifically modern physics, web security and blockchain. Since a child, I have fallen in love with science and technology. So I read lots of magazines and books, such as Glencoe science series. And I enrolled in some MOOCs on Coursera and Xuetangx. I love programing. I joined a technology innovation project as programmer. I'm holding several blockchain assets.
+It is with great pleasure that I joined the school ACM team here and won awards.
+I believe IT have special meaning for human civilization. IT is the most powerful tool which human ever invented. Blockchain and artificial Intelligence may turn the world inside out. So I hope to learn them more professionally in honors college.
