@@ -59,3 +59,23 @@ Lynch proposed five categories of environmental features that we make use of in 
 - Nodes. Focal points, such as city parks, traffic, circles, or a fountain, where paths or edges meet.
 - Districts. Large spaces on our mental representations and defined by some common characteristic, such as the theater district or restaurant row.
 - landmarks are structures. We use as points of reference within your map and that are usually visible from a distance. Examples of these would be a clock tower, a church steeple, or a tall or especially unusual building.
+
+## THANKS FOR THE MEMORIES!
+
+### What did Loftus hypothesize?
+
+Loftus hypothesized that if eyewitnesses are asked questions that contain a false presupposition about the witnessed event, the new false information may be incorporated into the witness's memory of the event and appear subsequently in new testimony by the witness.
+
+### Briefly describe the method and results of experiment 2
+
+Method:
+For this study, 40 subjects were shown a film clip, which showed a class being disrupted by eight demonstrators. Then the subjects were given questionnaires containing 20 questions relating to the film clip. For half of the subjects, one of the questions asked, "Was the leader of the four demonstrators who entered the classroom a male?" For the other half, the question asked, "Was the leader of the 12 demonstrators who entered the classroom a male?" One week after, the subjects from both groups returned and answered 20 new questions about the film. The one question that provided the results of the study was, "How many demonstrators did you see entering the classroom?"
+
+Results:
+The group that had received the question presupposing 12 demonstrators reported seeing an average of 8.85. Those who had received the question asking about 4 demonstrators averaged 6.40. This was a significant difference. This experiment showed that, on average, the wording of one question altered the way subjects remembered the basic characteristics of a witnessed event.
+
+###  What is Loftus's theory of why many eyewitness testimonies are incorrect?
+
+Loftus argued that an accurate theory of memory and recall must include a process of reconstruction that occurs when new information is integrated into the original memory of an event. The findings of these studies cannot be explained by assuming that recall simply involves a mental replaying of an event, even with varying degrees of accuracy. The extra step of integrating new information into memory has been added. This new information, in turn, causes your representation of the original memory to be altered or reconstructed. Later, if you are asked a question about the event, your recall will not be of the actual original event, but of your reconstruction of it.  The false presupposition in the questions, provided a subtle form of new information that was unintentionally integrated into the original memory of the event.
+
+In applying this idea to eyewitnesses in criminal investigations, Loftus pointed out that often witnesses are questioned more than once.  During these various sessions of questions, it is not unlikely that false presuppositions will be made, probably unintentionally. There are innumerable ways in which this might happen. Common, innocent-sounding questions such as "What did the guy's gun look like?" or "Where was the get-away car parked?" have been shown to increase the chances that witnesses will remember a gun or a getaway car whether or not they were actually there. So, while the attorneys, the judge, and the jury are making the assumption that the witness is re-creating what was actually seen, Loftus contends that what is being remembered by the witness is a "regenerated image based on the altered memorial representation".
