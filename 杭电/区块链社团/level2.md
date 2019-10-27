@@ -13,14 +13,14 @@ Solidity 初步
 - 基础语法
 - Contract
 - State Variable
-- Function
+- Function https://github.com/filipmartinsson/Solidity-0.5.1/blob/master/Functions-state-var.sol
   - public
   - view
   - returns
-- Control Flow
-- Array
+- Control Flow https://github.com/filipmartinsson/Solidity-0.5.1/blob/master/control-structures.sol
+- Array https://github.com/filipmartinsson/Solidity-0.5.1/blob/master/Arrays-structs.sol
 - Struct
-- Mapping
+- Mapping https://github.com/filipmartinsson/Solidity-0.5.1/blob/master/mappings.sol
 
 https://solidity.readthedocs.io/en/v0.5.12/solidity-in-depth.html
 
