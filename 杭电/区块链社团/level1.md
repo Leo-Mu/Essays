@@ -38,3 +38,9 @@
 安装 chrome 浏览器及翻墙，下载 metamask 。
 
 下载数字货币的钱包在测试链上进行体验。
+
+## 10.27 第二次课
+
+remix.ethereum.org
+
+iot-academy.superblocks.com
