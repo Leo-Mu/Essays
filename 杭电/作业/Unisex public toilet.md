@@ -160,3 +160,48 @@ https://en.wikipedia.org/wiki/Bathroom_bill
 A bathroom bill is the common name for legislation or a statute that defines access to public toilets by gender (restrooms)—or transgender individual. Bathroom bills affect access to sex-segregated public facilities for an individual based on a determination of their sex as defined in some specific way—such as their sex as assigned at birth, their sex as listed on their birth certificate, or the sex that corresponds to their gender identity.[1] A bathroom bill can either be inclusive or exclusive of transgender individuals, depending on the aforementioned definition of their sex. Unisex public toilets are one option to overcome this controversy.
 
 ### Universities
+
+#### The University of Auckland
+
+https://www.auckland.ac.nz/en/on-campus/student-support/personal-support/lgbti-students/unisex-toilets-on-campus.html
+
+http://cdn.auckland.ac.nz/assets/auckland/about-us/equity-at-the-university/city%20campus%20unisex%20bathroom%20location%202019.pdf
+
+52 total, 41 of which is Wheelchair Accessible.
+
+#### The University of Vermont
+
+![The University of Vermont](https://gdb.voanews.com/FF67B07C-270B-4BCF-A10F-687EAB144A34_w1597_n_r1_st.jpg)
+
+#### The University of California at Los Angeles
+
+http://newsroom.ucla.edu/stories/ucla-project-to-create-more-all-gender-restrooms-reaches-milestone
+
+#### University of Oklahoma
+
+http://www.oudaily.com/news/gender-neutral-restrooms-create-a-safe-place-for-all-people/article_1f745ac4-937a-11e3-aad0-001a4bcf6878.html
+
+The University of Oklahoma continually adds unisex toilets to their campus to accommodate students who may require use of a less excessively gendered public toilet. (Students that fit under this umbrella may identify as non-heterosexual). As of February 2014, the university had 13 unisex toilets.
+
+#### The University of Auckland
+
+https://www.canterbury.ac.nz/support/equity/gender-neutral-toilets/
+
+There are currently gender-neutral toilets in the following locations:
+
+- Rehua on levels 2 and 7 (11 total)
+- Elsie Locke on levels 3 and 6 (3 total)
+- Puaka-James Hight on level 3 (2 total)
+- The Postgrad Living Room space (3 total)
+- Pasifika students house 45 Creyke Road (1 total)
+- Gender-neutral facilities will also be available for students and staff to use in Haere-roa and the proposed new RecCentre after their completion and opening.
+
+On Dovedale campus, there are gender-neutral toilets here:
+
+- Kotuku (3 total)
+
+#### Others
+
+According to a University of Massachusetts Amherst LGBTQ advocacy organization, The Stonewall Centre, there were more than 150 campuses in the US in 2014 with unisex public toilets.
+
+https://www.huffpost.com/entry/gender-neutral-bathrooms-colleges_n_5597362
