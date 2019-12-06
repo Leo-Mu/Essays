@@ -155,4 +155,10 @@ The Human Rights Campaign, an LGBTQ advocacy group, recommends that employers gr
 
 [Unisex public toilets a pioneering project](https://www.chinadaily.com.cn/opinion/2017-06/13/content_29720604.htm)
 
+#### Bathroom bill in US
+
+https://en.wikipedia.org/wiki/Bathroom_bill
+
+A bathroom bill is the common name for legislation or a statute that defines access to public toilets by gender (restrooms)—or transgender individual. Bathroom bills affect access to sex-segregated public facilities for an individual based on a determination of their sex as defined in some specific way—such as their sex as assigned at birth, their sex as listed on their birth certificate, or the sex that corresponds to their gender identity.[1] A bathroom bill can either be inclusive or exclusive of transgender individuals, depending on the aforementioned definition of their sex. Unisex public toilets are one option to overcome this controversy.
+
 ### Universities
