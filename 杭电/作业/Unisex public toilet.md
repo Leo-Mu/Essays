@@ -2,13 +2,104 @@
 
 Foreign information
 
-## definition
+[TOC]
+
+## Definition
 
 The term unisex public toilets, also called gender-inclusive, gender-neutral and mixed-sex or all-gender toilets, bathrooms or restrooms, refers to public toilets that are not separated by gender or sex. Unisex public toilets can benefit a range of people with or without special needs, for example people with disabilities, the elderly, and anyone who needs the help of someone of another gender or sex. They are also valuable for parents wishing to accompany one or more of their young children needing a toilet facility.
 
 ![Unisex pictogram](https://upload.wikimedia.org/wikipedia/commons/7/78/Unisex_pictogram.jpg)
 
 ## Standers
+
+### Building regulations in the United Kingdom
+
+[Part M. Access to and use of buildings](https://en.wikipedia.org/wiki/Building_regulations_in_the_United_Kingdom#Part_M._Access_to_and_use_of_buildings)
+
+Part M requires the inclusive provision of ease of access to and circulation within all buildings, together with requirements for facilities for disabled people.
+
+Buildings should have reasonable provision:
+
+- For all people to gain access and use the building.
+- **Toilets provision shall be made available for all.**
+- If a building has seating such as audience or spectator seating, reasonable provision should be made for people with disabilities.
+
+### Workplace (Health, Safety and Welfare) regulations in the United Kingdom
+
+In the United Kingdom, the Workplace (Health, Safety and Welfare) Regulations 1992 requires businesses to provide toilets for their employees, along with washing facilities including soap or other suitable means of cleaning. The [Workplace (Health, Safety and Welfare) Approved Code of Practice and Guidance L24](http://www.hse.gov.uk/pUbns/priced/l24.pdf), available from Health and Safety Executive Books, outlines guidance on the number of toilets to provide and the type of washing facilities associated with them.
+
+#### Requirements under these Regulations
+Employers have a duty under the Health and Safety at Work etc Act 1974 to ensure, so far as reasonably practicable, the health, safety and welfare of their employees at work. People in control of non-domestic premises have a duty towards people who are not their employees but use their premises. The Regulations expand on these duties and are intended to protect the health and safety of everyone in the workplace, and ensure that adequate welfare facilities are provided for people at work.
+
+Several of the regulations require things to be ‘suitable’. Regulation 2(3) makes it clear that things should be suitable for anyone. This includes people with disabilities. Where necessary, parts of the workplace, particularly doors, passageways, stairs, showers, washbasins, toilets and workstations, should be made accessible for disabled people.
+
+#### Minimum numbers of facilities
+
+Table 1 shows the minimum number of toilets and washbasins that should be provided where both men and women are working. Column 1 refers to the maximum number of workers likely to be in the workplace at any one time. If separate toilets are provided for a group of workers (eg men, women, office workers or manual workers), a separate calculation should be made for each group. More facilities may be necessary if, for example, breaks are taken at set times or workers finish work together and need to wash before leaving.
+
+Table 1 Number of facilities needed per number of people at work
+
+Number of people at work | Number of cubicles | Number of washbasins
+-------------------------|--------------------|---------------------
+1 to 5                   | 1                  | 1
+6 to 25                  | 2                  | 2
+26 to 50                 | 3                  | 3
+51 to 75                 | 4                  | 4
+76 to 100                | 5                  | 5
+
+Table 1 provides advice on provision for mixed workplaces. However, where it may be necessary to provide urinals for use by men, then the advice in Table 2 may be followed.
+
+Table 2 may be followed as an alternative to column 2 of Table 1 if toilets are only used by men. A urinal may either be an individual urinal or a section of urinal space which is at least 600 mm long.
+
+Table 2 Number of facilities needed per number of men at work
+
+Number of men at work | Number of cubicles | Number of urinals
+----------------------|--------------------|------------------
+1 to 15               | 1                  | 1
+16 to 30              | 2                  | 1
+31 to 45              | 2                  | 2
+46 to 60              | 3                  | 2
+61 to 75              | 3                  | 3
+76 to 90              | 4                  | 3
+91 to 100             | 4                  | 4
+
+### Guide for planning unisex bathroom from a washroom accessories company Washware Essentials
+
+[Planning A Unisex Bathroom: The Pros, Cons & Practicalities](https://www.washwareessentials.co.uk/content/unisex-bathroom)
+
+A unisex bathroom will obviously need to be larger than a single sex bathroom in order to accommodate users of both genders. While there are no hard and fast rules about how large a washroom should be, the Health and Safety Executive has issued guidance on the number of toilets and washbasins that should be provided per person in a mixed use bathroom:
+
+Number of people | Number of toilets | Number of washbasins
+-----------------|-------------------|---------------------
+1-5              | 1                 | 1
+6-25             | 2                 | 2
+26-50            | 3                 | 3
+51-75            | 4                 | 4
+76-100           | 5                 | 5
+
+This should help you figure out the required dimensions for your washroom. The recommended dimensions of each individual toilet cubicle are set out in the Building Regulations Part M. The building regulations also dictate that when four or more cubicles are provided in a washroom, one of them must be an enlarged cubicle for disabled users. You may also wish to provide baby changing facilities if appropriate.
+
+Since all toilet cubicles will cater for women, you should provide a sanitary towel waste bin in each stall. We also sell recessed designs that can be mounted into a wall, which will help save space.
+
+For privacy reasons, it might seem like a good idea to rule out urinals altogether; however, installing them in your unisex washroom would reduce waiting times for female users, and also help minimise the risk of pee on the toilet seats. Bowl urinals afford greater privacy, but troughs urinals are cheaper and take up less space. You could install a modesty screen between each urinal to further enhance privacy, or you could go one further and install your urinals in a separate section of the washroom, obscured from view behind a partial wall.
+
+The extra room afforded by a mixed use washrooms means that you could consider installing a stylish freestanding hand wash fountain instead of individual hand-washing basins. You also have the option of a communal trough sink if you wish to bring costs down further.
+
+### AIGA standard restroom symbols
+
+#### Men's
+
+![Toilet men](https://upload.wikimedia.org/wikipedia/commons/4/4e/Aiga_toiletsq_men.svg)
+
+#### Women's
+
+![Toilet women](https://upload.wikimedia.org/wikipedia/commons/e/e3/Toilet_women.svg)
+
+#### Unisex
+
+![Toilets unisex](https://upload.wikimedia.org/wikipedia/commons/8/8f/Toilets_unisex.svg)
+
+### Symbols in unicode
 
 ## Articles
 
