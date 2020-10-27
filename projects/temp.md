@@ -44,3 +44,11 @@ struct RVT
     t_int ID;
 };
 ```
+
+$$
+F(x+y)=F(x)+F(y) \\
+\\
+F(x+a,y)=F(x,y)+F(a,y) \\
+F(x,y+a)=F(x,y)+F(x,a) \\
+F(x+\Delta x,y+\Delta y)=F(x,y)+F(\Delta x,y)+F(x,\Delta y)+F(\Delta x,\Delta y)
+$$
