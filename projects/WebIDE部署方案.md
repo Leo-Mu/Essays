@@ -83,3 +83,33 @@ services:
 1. 将证书文件夹中的内容复制到 ``` secrets/https-certificates/ ```
 2. 使用命令生成 dhparams.pem 文件 ``` openssl dhparam -out secrets/https-certificates/dhparams.pem 2048 ```
 
+### 启动
+
+1. 创建 ``` values.custom.yaml ```，其中的 key 使用 ``` openssl rand -hex 20 ``` 生成。 
+```yaml
+rabbitmq:
+  auth:
+    username: your-rabbitmq-user
+    password: your-secret-rabbitmq-password
+minio:
+  accessKey: your-random-access-key
+  secretKey: your-random-secret-key
+```
+2. 运行
+``` bash 
+helm repo add gitpod.io https://charts.gitpod.io
+
+helm repo update
+
+helm install -f values.custom.yaml gitpod gitpod.io/gitpod --version=0.10.0
+
+kubectl create secret generic https-certificates --from-file=secrets/https-certificates
+
+helm upgrade --install -f values.custom.yaml gitpod gitpod.io/gitpod --version=0.10.0
+
+```
+3. 通过  ``` kubectl get pods ``` 检查所有 pods 都处于 ```RUNNING``` 状态
+
+## 运行后配置
+
+访问 ```https://<your-domain.com>``` 即可开始初始化配置。任何兼容 GitHub GitLab 或 Bitbucket 协议的 Git 提供程序都可以作为认证器。推荐部署一个私有的校内 GitLab 来作为学生的认证和存储库管理软件。
