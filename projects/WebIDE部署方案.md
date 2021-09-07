@@ -22,7 +22,7 @@ Gitpod 使教学团队能够将他们的教学环境描述为简单的配置代�
 
 1. 安装 [certbot](https://certbot.eff.org/)
 2. 修改占位符并运行脚本
-@import "certbot.sh"
+./certbot.sh
 3. 将输出的文件夹记录，需将其中的文件复制到相应位置。
 
 ## docker 部署方案（简单快捷的试验部署）
@@ -32,7 +32,7 @@ Gitpod 使教学团队能够将他们的教学环境描述为简单的配置代�
 1. 将证书文件夹中的 ```fullchain.pem``` 复制为 ```./certs/tls.crt``` ，将 ```privkey.pem``` 复制为 ```./certs/tls.key```
 2. 创建 .env 文件 ``` DOMAIN=your-domain.example.com ```
 3. 创建 docker-compose.yaml 文件
-@import "https://github.com/gitpod-io/gitpod/blob/main/contrib/docker/examples/gitpod/docker-compose.yaml"
+https://github.com/gitpod-io/gitpod/blob/main/contrib/docker/examples/gitpod/docker-compose.yaml
 4. 运行 ``` docker-compose up ```
 
 ## Kubernetes 部署方案
