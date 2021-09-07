@@ -71,3 +71,15 @@ services:
 
 参考 [Install Gitpod Self-Hosted on Kubernetes
 ](https://www.gitpod.io/docs/self-hosted/latest/installation/on-kubernetes)
+
+### 要求
+
+- Kubernetes ≥ 1.18
+- containerd ≥ 1.2
+- helm ≥ 3.6
+- Calico
+
+### Https 证书相关
+1. 将证书文件夹中的内容复制到 ``` secrets/https-certificates/ ```
+2. 使用命令生成 dhparams.pem 文件 ``` openssl dhparam -out secrets/https-certificates/dhparams.pem 2048 ```
+
