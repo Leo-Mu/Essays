@@ -21,8 +21,25 @@ Gitpod 使教学团队能够将他们的教学环境描述为简单的配置代�
 ### 获取 HTTPS 证书
 
 1. 安装 [certbot](https://certbot.eff.org/)
-2. 修改占位符并运行脚本
-./certbot.sh
+2. 修改占位符并运行脚本[certbot.sh](./certbot.sh)
+``` bash
+export DOMAIN=your-domain.com
+export EMAIL=your@email.here
+export WORKDIR=$PWD/letsencrypt
+
+certbot certonly \
+    --config-dir $WORKDIR/config \
+    --work-dir $WORKDIR/work \
+    --logs-dir $WORKDIR/logs \
+    --manual \
+    --preferred-challenges=dns \
+    --email $EMAIL \
+    --server https://acme-v02.api.letsencrypt.org/directory \
+    --agree-tos \
+    -d *.ws.$DOMAIN \
+    -d *.$DOMAIN \
+    -d $DOMAIN
+```
 3. 将输出的文件夹记录，需将其中的文件复制到相应位置。
 
 ## docker 部署方案（简单快捷的试验部署）
@@ -31,8 +48,23 @@ Gitpod 使教学团队能够将他们的教学环境描述为简单的配置代�
 
 1. 将证书文件夹中的 ```fullchain.pem``` 复制为 ```./certs/tls.crt``` ，将 ```privkey.pem``` 复制为 ```./certs/tls.key```
 2. 创建 .env 文件 ``` DOMAIN=your-domain.example.com ```
-3. 创建 docker-compose.yaml 文件
-https://github.com/gitpod-io/gitpod/blob/main/contrib/docker/examples/gitpod/docker-compose.yaml
+3. 创建 [docker-compose.yaml](https://github.com/gitpod-io/gitpod/blob/main/contrib/docker/examples/gitpod/docker-compose.yaml) 文件
+```Dockerfile
+version: '3'
+services:
+
+  gitpod:
+    image: gcr.io/gitpod-io/self-hosted/gitpod-k3s:${VERSION:-latest}
+    privileged: true
+    volumes:
+      - ./values:/values
+      - ./certs:/certs
+    ports:
+      - 443:443
+      - 80:80
+    environment:
+      - DOMAIN=${DOMAIN}
+```
 4. 运行 ``` docker-compose up ```
 
 ## Kubernetes 部署方案
