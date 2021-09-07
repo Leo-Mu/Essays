@@ -112,4 +112,4 @@ helm upgrade --install -f values.custom.yaml gitpod gitpod.io/gitpod --version=0
 
 ## 运行后配置
 
-访问 ```https://<your-domain.com>``` 即可开始初始化配置。任何兼容 GitHub GitLab 或 Bitbucket 协议的 Git 提供程序都可以作为认证器。推荐部署一个私有的校内 GitLab 来作为学生的认证和存储库管理软件。
+访问 ```https://<your-domain.com>``` 即可开始初始化配置。任何兼容 GitHub GitLab 或 Bitbucket 协议的 Git 提供程序都可以作为认证器。推荐部署一个私有的校内 GitLab 来作为学生的认证和存储库管理软件，从而方便地进行环境分发和作业提交。
